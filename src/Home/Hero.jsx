@@ -1,10 +1,10 @@
 import React from "react";
-import Image1 from "../assets/image1.png";
-import Image2 from "../assets/image2.png";
-import Image3 from "../assets/image3.png";
-import Image4 from "../assets/image5.png";
-import Image5 from "../assets/image5.png";
-import Image6 from "../assets/image6.png";
+import Image1 from "../assets/Image1.png";
+import Image2 from "../assets/Image2.png";
+import Image3 from "../assets/Image3.png";
+import Image4 from "../assets/Image5.png";
+import Image5 from "../assets/Image5.png";
+import Image6 from "../assets/Image6.png";
 import Slider from "react-slick";
 
 const ImageList = [
