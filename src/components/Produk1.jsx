@@ -1,16 +1,16 @@
 import React, { useState } from "react";
-import Image1 from "../assets/image1.png";
-import Image2 from "../assets/image2.png";
-import Image3 from "../assets/image3.png";
-import Image4 from "../assets/image4.png";
-import Image5 from "../assets/image5.png";
-import Image6 from "../assets/image6.png";
-import Image7 from "../assets/image7.png";
-import Image8 from "../assets/image8.png";
-import Image9 from "../assets/image9.png";
-import Image10 from "../assets/image10.png";
-import Image11 from "../assets/image11.png";
-import Image12 from "../assets/image12.png";
+import Image1 from "../assets/Image1.png";
+import Image2 from "../assets/Image2.png";
+import Image3 from "../assets/Image3.png";
+import Image4 from "../assets/Image4.png";
+import Image5 from "../assets/Image5.png";
+import Image6 from "../assets/Image6.png";
+import Image7 from "../assets/Image7.png";
+import Image8 from "../assets/Image8.png";
+import Image9 from "../assets/Image9.png";
+import Image10 from "../assets/Image10.png";
+import Image11 from "../assets/Image11.png";
+import Image12 from "../assets/Image12.png";
 import { AiFillStar } from "react-icons/ai";
 import { CiShare1 } from "react-icons/ci";
 
